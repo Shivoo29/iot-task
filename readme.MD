@@ -28,7 +28,7 @@ This project implements a simple safe system using an Arduino board, a keypad, a
 - Ensure that the servo motor is properly calibrated to lock and unlock the safe.
 - Follow the prompts on the LCD display to lock and unlock the safe using the keypad and secret code.
 
-![Image Description]("C:\Users\ASUS\Desktop\iot task\Screenshot 2024-02-26 204753.png")
+![Image Description]("https://imgur.com/a/tNzuZYf")
 
 
 ## Note:
